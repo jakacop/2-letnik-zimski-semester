@@ -1,5 +1,5 @@
 # 2-letnik-zimski-semester
-Pred vami je zbirka zapiskov in samostojnega/skupinskega dela, ki je nastala tekom obiskovanja predavanj študija zimskega semestra drugega letnika študija *Bibliotekarstvo in informacijska znanost na Filozofski fakulteti v Ljubljani v študijskem letu 2025/2026.
+Pred vami je zbirka zapiskov in samostojnega/skupinskega dela, ki je nastala tekom obiskovanja predavanj študija zimskega semestra drugega letnika študija *Bibliotekarstvo in informacijska znanost* na Filozofski fakulteti v Ljubljani v študijskem letu 2025/2026.
 
 Zapiski vključujejo povzetke, parafraze ter citate vsebin obravnavanih na predavanjih, medtem ko so samostojna oziroma skupinska dela rezultat nalog, dodeljenih tekom semestra. Zapiski so poimenovani glede na datum predavanja, v obliki YYYY-MM-DD, ki služi kot ime datoteke. Znaki za manjkajoče besedilo v zapiskih pomenijo, da se dodatna snov nahaja na prosojnicah, uporabljenih pri predmetu. Zelena barva v zapiskih pa označuje snov, ki se pogosto pojavi na izpitu.
 
