@@ -5,6 +5,6 @@ Zapiski vključujejo povzetke, parafraze ter citate vsebin obravnavanih na preda
 
 Čeprav sem se trudil biti kar se da natančen, se napakam ni mogoče povsem izogniti, zato gradivo uporabljajte na lastno odgovornost in po lastni presoji.
 
-Vesel bom vsakršnih predlogov za popravke, izboljšave, dopolnitve, kritike ali pohvale. Pišete mi lahko na e-naslov, naveden v mojem GitHub profilu.
+Vesel bom vsakršnih predlogov za popravke, izboljšave, dopolnitve, kritike ali pohvale. Pišete mi lahko na e-naslov, naveden v mojem GitHub profilu (viden ob prijavi na GitHub).
 
 Uspešen študij vam želim! :D
